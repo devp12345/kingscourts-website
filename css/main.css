@@ -1,0 +1,359 @@
+/* GENERAL + BODY */
+
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif !important;
+    color: white;
+}
+h1 {
+    color: white;
+}
+.lighter{
+    font-weight: lighter !important;
+}
+.faded-text{
+    opacity: 0.5;
+    padding-top: 11px;
+
+}
+
+a.Mississauga {
+    text-decoration: none;
+    color: gold;
+}
+.faded {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    resize: 50px;
+}
+img.img-thumbnail:hover {
+    filter: blur(5px) !important;
+    -webkit-filter: blur(5px)!important;
+}
+.elevenPX {
+    padding-bottom: 11px;
+}
+p {
+    font-weight: 100;
+}
+.glyphicon {
+    font-size: 30px;
+}
+.btn-primary {
+    background-color: black;
+    background-repeat: no-repeat;
+    border-radius: 2px;
+    border: 0.5px;
+}
+/* PAGE HEADINGS */
+
+h4.headersub {
+    color: white;
+    font-weight: 100;
+}
+p.info {
+    font-size: 20px;
+    opacity: 0.5;
+}
+hr {
+    opacity: 0.25;
+}
+h1.header {
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+h4.headersub-dark {
+    color: white;
+    font-weight: lighter;
+}
+h1.header-dark {
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+h3 {
+    font-weight: lighter;
+    font-size: 10px;
+}
+h4.lighter-subtext {
+    font-weight: lighter;
+}
+a.notx {
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: lighter;
+}
+a.notx:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+a.notxlg {
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+    background-color: white;
+}
+a.notxlg:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+.material-icons.md-18 {
+    font-size: 18px;
+}
+.material-icons.md-24 {
+    font-size: 24px;
+}
+/* Default */
+
+.material-icons.md-36 {
+    font-size: 36px;
+}
+.material-icons.md-48 {
+    font-size: 48px;
+}
+
+.card{
+    background: #100E0E !important;
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+}
+.selector{
+    padding-top: 20px;
+}
+.card-img-top{
+    width: 20em;
+
+}
+
+/* SECTIONS */
+
+.right-full {
+    background: #100E0E;
+    color: white;
+    text-align: right;
+    position: absolute;
+    width: 100%;
+    margin-left: 0px !important;
+    /*Over ride bootstap def*/
+    left: 0;
+}
+.left-center {
+    text-align: center;
+}
+.left-left {
+    text-align: left !important;
+}
+.map-left {
+    float: left;
+}
+.right-right {
+    float: right;
+}
+/* NAVIGATION */
+
+nav.navbar {
+    background: transparent;
+    font-size: 15px;
+}
+li>a {
+    color: white;
+    font-weight: bold;
+}
+li>a:hover {
+    color: black;
+}
+.navbar-toggle {
+    color: white;
+}
+.navbar-brand {
+    color: white;
+    font-weight: lighter;
+}
+.navbar-brand:hover {
+    opacity: 0.5;
+    color: white;
+}
+.icon-bar {
+    color: black;
+    background-color: black;
+}/* GENERAL + BODY */
+
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif !important;
+    color: white;
+}
+h1 {
+    color: white;
+}
+a.lite {
+    text-decoration: none;
+    color: gold;
+}
+.faded {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    resize: 50px;
+}
+img.img-thumbnail:hover {
+    filter: blur(5px) !important;
+    -webkit-filter: blur(5px)!important;
+}
+.elevenPX {
+    padding-bottom: 11px;
+}
+p {
+    font-weight: 100;
+}
+.glyphicon {
+    font-size: 30px;
+}
+.btn-primary {
+    background-color: black;
+    background-repeat: no-repeat;
+    border-radius: 2px;
+    border: 0.5px;
+}
+/* PAGE HEADINGS */
+
+h4.headersub {
+    color: white;
+    font-weight: 100;
+}
+p.info {
+    font-size: 20px;
+    opacity: 0.5;
+}
+hr {
+    opacity: 0.25;
+}
+h1.header {
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+h4.headersub-dark {
+    color: white;
+    font-weight: lighter;
+}
+h1.header-dark {
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+h3 {
+    font-weight: lighter;
+    font-size: 10px;
+}
+h4.lighter-subtext {
+    font-weight: lighter;
+}
+a.notx {
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: lighter;
+}
+a.notx:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+a.notxlg {
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+    background-color: white;
+}
+a.notxlg:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+.material-icons.md-18 {
+    font-size: 18px;
+}
+.material-icons.md-24 {
+    font-size: 24px;
+}
+/* Default */
+
+.material-icons.md-36 {
+    font-size: 36px;
+}
+.material-icons.md-48 {
+    font-size: 48px;
+}
+/* SECTIONS */
+
+.right-full {
+    background: #100E0E;
+    color: white;
+    text-align: right;
+    position: absolute;
+    width: 100%;
+    margin-left: 0px !important;
+    /*Over ride bootstap def*/
+    
+    left: 0;
+}
+.left-center {
+    text-align: center;
+}
+.left-left {
+    text-align: left;
+}
+.map-left {
+    float: left;
+}
+.bg{
+	font-size: 30px;
+	float: left;
+	padding:0px !important;
+	margin: 0px !important;
+	padding-right: 11px !important;
+}
+.bg-left{
+	font-size: 30px;
+	float: left;
+}
+
+.right-right {
+    float: right;
+}
+/* NAVIGATION */
+a.footer{
+	opacity: 0.5!important;
+	color: white !important;
+}
+nav.navbar {
+    background: transparent;
+    font-size: 15px;
+}
+li>a {
+    color: white;
+    font-weight: bold;
+}
+li>a:hover {
+    color: black;
+}
+.navbar-toggle {
+    color: white;
+}
+.navbar-brand {
+    color: white;
+    font-weight: lighter;
+}
+.navbar-brand:hover {
+    opacity: 0.5;
+    color: white;
+}
+.icon-bar {
+    color: black;
+    background-color: black;
+}
